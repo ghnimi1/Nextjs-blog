@@ -5,11 +5,7 @@ import { Button } from '@mui/material'
 export default function Home() {
   return (
     <main className={styles.main}>
-
-<Button variant="text">Text</Button>
-<Button variant="contained">Contained</Button>
-<Button variant="outlined">Outlined</Button>
-     
+      Home Page
     </main>
   )
 }
